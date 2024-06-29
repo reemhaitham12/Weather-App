@@ -30,11 +30,14 @@ form {
     flex: 1;
 }
 
-/* @media (max-width: 768px) {
+@media (max-width: 768px) {
     .header {
         min-height: 100vh;
     }
-} */
+    .wind{
+        width: 100%;
+    }
+}
 
 .bg-pink {
     background-color: #FDFFD2;
